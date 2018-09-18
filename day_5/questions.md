@@ -14,6 +14,6 @@ states.keys
 states.values
 
 1. What is another example of when we might use a hash?  In this case, why is a hash better than an array?
-username/password lookup  for authentication. it wouyld be better to use a hash than an array so you don't have to keep two arrays synced to map both a username and a password to an user index.
+username/password lookup  for authentication. It would be better to use a hash than an array so you don't have to keep two arrays synced to map both a username and a password to an user index.
 
 1. What questions do you still have about hashes?
